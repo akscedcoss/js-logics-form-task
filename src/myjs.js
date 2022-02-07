@@ -136,6 +136,7 @@ function diverFunction() {
     } else {
         console.log("Data incorrect");
         displayErrors();
+        //ss
 
     }
 }
